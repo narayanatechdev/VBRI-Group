@@ -69,7 +69,7 @@ const Products = () => {
               <div className="flex flex-col sm:flex-row gap-4 pt-2">
                 <Button 
                   className="scientific-button"
-                  onClick={() => window.open('https://ssinstruments.se/', '_blank')}
+                  onClick={() => window.open('https://soptics.se/', '_blank')}
                 >
                   Visit Website
                 </Button>
